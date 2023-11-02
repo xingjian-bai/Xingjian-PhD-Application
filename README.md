@@ -10,5 +10,5 @@ View it [here](resume.pdf). The resume contains:
   - a list of extracurricular activities
 ## A list of schools he is applying to, and their deadlines
 View it [here](https://docs.google.com/spreadsheets/d/1aaGszfxmXiVMEkcFb8wIYQacL_LukwGaeUUCtpysT8E/edit?usp=sharing).
-## Unofficial transcript
-View it [here](unofficial-transcript.pdf)
+## Transcript
+View it [here](transcript.pdf)
