@@ -1,7 +1,7 @@
 This repo contains the latest materials regarding Xingjian Bai's PhD application.
 
 ## Statement of Purposes (two pages)
-View it [here](https://docs.google.com/document/d/1V4EKgHMhm9ChZ5rf_9JDEVbTv-U01FwXntiqrVPjmI8/edit).
+View it [here](Xingjian-SoP-1115.pdf).
 ## Resume (two pages)
 View it [here](resume.pdf). The resume contains:
   - a list of publications
